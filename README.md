@@ -6,6 +6,11 @@
 
 [Twitter's Terms of Service](https://twitter.com/en/tos).
 
+| First Header  | Second Header | Second Header |
+| ------------- | ------------- | ------------- |
+| Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  |
+
 ## How to Hydrate
 
 ### Hydrating using Hydrator (GUI)
