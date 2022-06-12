@@ -21,7 +21,7 @@
 
 ### Hydrating using Twarc (CLI)
 
-First install twarc and tqdm
+First install [twarc](https://twarc-project.readthedocs.io/en/latest/) and [tqdm](https://tqdm.github.io/)
 
 ```
 pip3 install twarc
