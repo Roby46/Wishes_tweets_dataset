@@ -24,6 +24,8 @@ The Tweets_IDs folder includes files containing the tweet IDs. The tweets are or
 
 ### Hydrating using Hydrator (GUI)
 
+Navigate to the [Hydrator github repository](https://github.com/DocNow/hydrator) and follow the instructions for installation in their README. As there are a lot of separate Tweet ID files in this repository, it might be advisable to first merge files from timeframes of interest into a larger file before hydrating the Tweets through the GUI.
+
 ### Hydrating using Twarc (CLI)
 
 First install [twarc](https://twarc-project.readthedocs.io/en/latest/) and [tqdm](https://tqdm.github.io/)
@@ -39,13 +41,17 @@ Configure twarc with your Twitter API tokens (you must apply for a Twitter devel
 twarc configure
 ```
 Then you can run the script. The hydrated tweets will be stored in the same folder that contains the tweets' IDs as a compressed jsonl file. 
+```
+python3 hydrate.py -credentials
+```
+
 
 ### Hydrating using Tweepy
 ```
 import tweepy
 auth = tweepy.AppAuthHandler(consumer_key, consumer_secret)
 api = tweepy.API(auth, retry_count=5, retry_delay=2, wait_on_rate_limit=True, wait_on_rate_limit_notify=True)
-api.statuses_lookup(list_of_ids) #consider the limitations in tweepy documentation
+api.statuses_lookup(list_of_ids) 
 ```
 ## Data Usage Agreement/ How to cite
 
