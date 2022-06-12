@@ -1,6 +1,6 @@
 # Whishes_tweets_dataset
 
-This repository contains a collection of tweets on the topic of violence against women. The tweets were obtained using the Twitter API to capture tweets with hashtags related to the topic in question. In accordance with Twitter's terms of service, only tweet IDs are present in the repository. The data is for non-commercial research purposes only. 
+This repository contains a collection of tweets on the topic of violence against women. The tweets were obtained using the Twitter API to capture tweets with hashtags related to the topic in question. In accordance with [Twitter's Terms of Service](https://twitter.com/en/tos), only tweet IDs are present in the repository. The data is for non-commercial research purposes only. 
 The paper related to this repository can be found [here]().
 
 ## Data Organization
