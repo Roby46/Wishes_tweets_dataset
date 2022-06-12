@@ -4,7 +4,7 @@
 
 ## Notes about the data
 
-[Twitter's Terms of Service]([https://pages.github.com/](https://twitter.com/en/tos)).
+[Twitter's Terms of Service](https://twitter.com/en/tos).
 
 ## How to Hydrate
 
