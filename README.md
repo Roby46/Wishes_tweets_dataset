@@ -30,7 +30,7 @@ Then you can run the script. The hydrated tweets will be stored in the same fold
 
 ## Data Usage Agreement/ How to cite
 
-By using this dataset, you agree to comply with Twitter's Terms of Service and to cite the following article: 
+By using this dataset, you agree to comply with [Twitter's Terms of Service](https://twitter.com/en/tos) and to cite the following article: 
 
 ```
 @article
