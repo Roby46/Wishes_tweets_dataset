@@ -1,15 +1,15 @@
 # Whishes_tweets_dataset
 
-##Data Organization
+## Data Organization
 
-##Notes about the data
+## Notes about the data
 
-##How to Hydrate
+## How to Hydrate
 
-###Hydrating using Hydrator (GUI)
+### Hydrating using Hydrator (GUI)
 
-###Hydrating using Twarc (CLI)
+### Hydrating using Twarc (CLI)
 
-###Hydrating using Tweepy
+### Hydrating using Tweepy
 
-##Data Usage Agreement/ How to cite
+## Data Usage Agreement/ How to cite
