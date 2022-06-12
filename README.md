@@ -6,11 +6,15 @@
 
 [Twitter's Terms of Service](https://twitter.com/en/tos).
 
-| First Header  | Second Header | Second Header |
+|               | Before hydration | After hydration |
 | ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  |
-
+| Number of tweets  | Content Cell  | Content Cell  |
+| Number of accounts  | Content Cell  | Content Cell  |
+| Number of verified accounts  | Content Cell  | Content Cell  |
+| Average tweets per account  | Content Cell  | Content Cell  |
+| Account with location  | Content Cell  | Content Cell  |
+| Oldest tweet  | Content Cell  | Content Cell  |
+| Most recent tweet  | Content Cell  | Content Cell  |
 ## How to Hydrate
 
 ### Hydrating using Hydrator (GUI)
