@@ -36,7 +36,12 @@ twarc configure
 Then you can run the script. The hydrated tweets will be stored in the same folder that contains the tweets' IDs as a compressed jsonl file. 
 
 ### Hydrating using Tweepy
-
+```
+import tweepy
+auth = tweepy.AppAuthHandler(consumer_key, consumer_secret)
+api = tweepy.API(auth, retry_count=5, retry_delay=2, wait_on_rate_limit=True, wait_on_rate_limit_notify=True)
+api.statuses_lookup(list_of_ids) #consider the limitations in tweepy documentation
+```
 ## Data Usage Agreement/ How to cite
 
 By using this dataset, you agree to comply with [Twitter's Terms of Service](https://twitter.com/en/tos) and to cite the following article: 
