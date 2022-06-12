@@ -16,8 +16,8 @@ This dataset contains tweets written in 64 different languages. The main charact
 | Number of accounts  | -  | 1.170.868  |
 | Number of verified accounts  | -  | 17.537  |
 | Average tweets per account  | -  | 3,21  |
-| Account with location  | -  | 2.468.532  |
-| Oldest tweet  | Content Cell  | Content Cell  |
+| Account with location  | -  | 2.507  |
+| Oldest tweet  | 2021-11-10  | 2021-11-10  |
 | Most recent tweet  | 2022-02-25  | 2022-02-25  |
 ## How to Hydrate
 
