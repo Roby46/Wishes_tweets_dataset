@@ -1,6 +1,11 @@
 # Whishes_tweets_dataset
 
+This repository contains a collection of tweets on the topic of violence against women. The tweets were obtained using the Twitter API to capture tweets with hashtags related to the topic in question. In accordance with Twitter's terms of service, only tweet IDs are present in the repository. The data is for non-commercial research purposes only. 
+The paper related to this repository can be found [here]().
+
 ## Data Organization
+
+The Tweets_IDs folder includes files containing the tweet IDs. The tweets are organized in files by day so that each file contains only the tweets written on the day indicated in the file name. The files are 82 in all and they are in txt format.
 
 ## Notes about the data
 
