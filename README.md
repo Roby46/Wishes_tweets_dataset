@@ -8,13 +8,13 @@
 
 |               | Before hydration | After hydration |
 | ------------- | ------------- | ------------- |
-| Number of tweets  | Content Cell  | Content Cell  |
-| Number of accounts  | Content Cell  | Content Cell  |
-| Number of verified accounts  | Content Cell  | Content Cell  |
-| Average tweets per account  | Content Cell  | Content Cell  |
-| Account with location  | Content Cell  | Content Cell  |
+| Number of tweets  | 4.489.070  | 3.760.574  |
+| Number of accounts  | -  | 1.170.868  |
+| Number of verified accounts  | -  | 17.537  |
+| Average tweets per account  | -  | 3,21  |
+| Account with location  | -  | 2.468.532  |
 | Oldest tweet  | Content Cell  | Content Cell  |
-| Most recent tweet  | Content Cell  | Content Cell  |
+| Most recent tweet  | 2022-02-25  | 2022-02-25  |
 ## How to Hydrate
 
 ### Hydrating using Hydrator (GUI)
