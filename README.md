@@ -8,7 +8,7 @@ The paper related to this repository can be found [here]().
 The Tweets_IDs folder includes files containing the tweet IDs. The tweets are organized in files by day so that each file contains only the tweets written on the day indicated in the file name. The files are 82 in all and they are in txt format.
 
 ## Notes about the data
-This dataset contains tweets written in 64 different languages. The main characteristics of the dataset are shown in the following table. For detailed instructions about how to hydrate those tweets, see the next section.
+This dataset contains tweets written in 64 different languages. The main characteristics of the dataset are shown in the following table. For detailed instructions about how to hydrate these tweets, see the next section.
 
 |               | Before hydration | After hydration |
 | ------------- | ------------- | ------------- |
