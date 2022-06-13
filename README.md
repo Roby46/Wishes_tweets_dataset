@@ -1,6 +1,6 @@
 # Wishes (Women Inclusion and Safety for Holding Equality in Society) Tweets Dataset
 
-This repository contains a collection of tweets on the topic of violence against women. The tweets were obtained using the Twitter API to capture tweets with hashtags related to the topic in question. In accordance with [Twitter's Terms of Service](https://twitter.com/en/tos), only tweet IDs are present in the repository. The data is for non-commercial research purposes only. 
+This repository contains a collection of tweets on the topic of women inclusion and safety. The tweets were obtained using the Twitter API to capture tweets with hashtags related to the topic in question. The exploited keywords are visible in the script listener streamlistener_domestic_violence.py. In accordance with [Twitter's Terms of Service](https://twitter.com/en/tos), only tweet IDs are present in the repository. The data is for non-commercial research purposes only. 
 The paper related to this repository can be found [here]().
 
 ## Data Organization
