@@ -56,6 +56,7 @@ api.statuses_lookup(list_of_ids)
 
 By using this dataset, you agree to comply with [Twitter's Terms of Service](https://twitter.com/en/tos) and to cite the following article: 
 
+```
 @inproceedings{caruccio2022women,
   title={Data Analytics on Twitter for Evaluating Women Inclusion and Safety in Modern Society.},
   author={Caruccio, L., Cirillo, S., Deufemia, V., Polese, G., and Stanzione R.},
